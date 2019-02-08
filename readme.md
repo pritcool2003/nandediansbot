@@ -4,5 +4,5 @@ Bot uses BeautifulSoup to scrap the news info and schedule to post and retweet a
 
 The Bot is hosted on Heroku.
 
-The bot is live at twitter handele. https://twitter.com/NandediansBot
+The bot is live at twitter handle. https://twitter.com/NandediansBot
  
